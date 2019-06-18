@@ -11,3 +11,4 @@ set OS_IMAGE=ubuntu-16.04-amd64-server_20190215
 set OS_KEY_PAIR_NAME=WINCMMV
 set OS_REGION_NAME=bootstack-jalasoft
 set OS_INITIALS=MCM
+set OS_PRIVATE_KEY_PATH=C:\\Users\\Administrator\\Desktop\\Pardeclaves\\wincmmv.pem
